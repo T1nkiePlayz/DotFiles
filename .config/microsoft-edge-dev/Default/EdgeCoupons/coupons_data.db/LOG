@@ -1,6 +1,0 @@
-2024/03/27-06:24:49.810 533 Reusing MANIFEST /home/ashton/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
-2024/03/27-06:24:49.810 533 Recovering log #3
-2024/03/27-06:24:49.810 533 Reusing old log /home/ashton/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/000003.log 
-2024/03/27-06:24:49.875 534 Level-0 table #5: started
-2024/03/27-06:24:49.882 534 Level-0 table #5: 829060 bytes OK
-2024/03/27-06:24:49.887 534 Delete type=0 #3
