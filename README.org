@@ -1,14 +1,23 @@
-#+TITLE: Ashtons Config Files
+#+TITLE: Ashton's Dotfiles
 
 * Download:
 
 #+begin_src bash
-git clone https://github.com/MinecraftKid124/DotFiles.git
+git clone https://github.com/T1nkiePlayz/DotFiles.git
 move -r * ~/
 #+end_src
 
-* Configured Programs
+* Configured Dotfiles
 **    ZSH
-**    Kitty (WIP)
-**    Doom Emacs (WIP)
-**    Hyprland (WIP)
+**    Kitty
+**    Neovim
+**    Hyprland
+**    Spotify (Spicetify)
+**    Firejail
+**    Hyprland
+**    Mako
+**    Mpv
+**    Noctalia
+**    Discord (Vencord)
+**    Yazi
+**    Zed
