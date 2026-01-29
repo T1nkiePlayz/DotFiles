@@ -1,0 +1,53 @@
+## Hyprland Config
+
+# Hyprctl
+exec = hyprctl dispatch submap global # Required for keybinds to work
+
+# Environment Variables
+source = hyprland/env.conf
+submap = global # This is required for catchall to work
+
+# Monitors Setup
+source = hyprland/monitors.conf
+
+## Defaults
+
+# Auto Start
+source = hyprland/execs.conf
+
+# General Config
+source = hyprland/general.conf
+
+# Keybinds
+source = hyprland/keybinds.conf
+
+# Rules
+source = hyprland/rules.conf
+
+# Colors
+source = hyprland/color.conf
+
+exec = systemctl --user start noctalia
+
+# 1. Launcher
+bind = CTRL, Space, exec, qs -c /etc/xdg/quickshell/noctalia-shell ipc call launcher command #"Open Noctalia Launcher Command"
+bind = $mod, Period, exec, qs -c /etc/xdg/quickshell/noctalia-shell ipc call launcher emoji #"Open Noctalia Launcher Emoji"
+bind = ALT, Space, exec, qs -c /etc/xdg/quickshell/noctalia-shell ipc call launcher toggle #"Open Noctalia Launcher"
+
+# 2. Panel
+
+# 3. Applications & System
+
+# 4. Window Management
+
+# 5. Noctalia (QuickShell) Integration
+
+# 6. MultiMedia & Brightness
+bind = , VOL DOWN, exec, wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%- #"Volume Down"
+bind = , VOL UP, exec, wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%+ -l 1.5 #"Volume Up"
+
+# 7. Workspaces
+
+# 8. Navigation (Focus)
+
+# 9. Moving Windows
