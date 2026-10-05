@@ -1,0 +1,30 @@
+[2026-07-26 18:13:41.626] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-07-26 18:13:41.667] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-07-26 18:13:41.668] [info]  (main) Application startup initiated.
+[2026-07-26 18:13:41.924] [error] (main) Settings file not found, creating defaults
+[2026-07-26 18:13:42.015] [info]  (main) Checking for update
+[2026-07-26 18:13:42.021] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-07-26 18:13:43.317] [info]  (main) Update for version 0.1.1 is not available (latest version: 0.1.1, downgrade is disallowed).
+[2026-07-26 18:13:48.055] [info]  (main) Checking for update
+[2026-07-26 18:13:48.055] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-07-26 18:13:48.981] [info]  (main) Update for version 0.1.1 is not available (latest version: 0.1.1, downgrade is disallowed).
+[2026-07-26 18:14:01.977] [info]  (main) Checking for update
+[2026-07-26 18:14:01.978] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-07-26 18:14:02.458] [info]  (main) Update for version 0.1.1 is not available (latest version: 0.1.1, downgrade is disallowed).
+[2026-07-26 18:28:35.483] [info]  (main) Checking for update
+[2026-07-26 18:28:35.484] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-07-26 18:28:36.631] [info]  (main) Update for version 0.1.1 is not available (latest version: 0.1.1, downgrade is disallowed).
+[2026-07-26 18:47:51.339] [info]  (main) Checking for update
+[2026-07-26 18:47:51.339] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-07-26 18:47:52.493] [info]  (main) Update for version 0.1.1 is not available (latest version: 0.1.1, downgrade is disallowed).
+[2026-07-26 18:47:59.732] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-07-26 18:47:59.776] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-07-26 18:47:59.777] [info]  (main) Application startup initiated.
+[2026-07-26 18:47:59.805] [info]  (main) Checking for update
+[2026-07-26 18:47:59.806] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-07-26 18:48:00.732] [info]  (main) Update for version 0.1.1 is not available (latest version: 0.1.1, downgrade is disallowed).
+[2026-07-26 20:52:05.236] [info]  (main) Checking for update
+[2026-07-26 20:52:05.236] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-07-26 20:52:06.353] [info]  (main) Update for version 0.1.1 is not available (latest version: 0.1.1, downgrade is disallowed).
+[2026-07-26 20:54:34.559] [info]  (main) Checking for update
+[2026-07-26 20:54:34.559] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }

@@ -1,0 +1,13 @@
+[2026-08-14 10:41:49.581] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-14 10:41:49.607] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-14 10:41:49.608] [info]  (main) Application startup initiated.
+[2026-08-14 10:41:49.616] [warn]  (main) main window already destroyed
+[2026-08-14 10:41:49.931] [info]  (main) Checking for update
+[2026-08-14 10:41:49.932] [info]  (main) Checking for update from: { currentVersion: '0.1.4' }
+[2026-08-14 10:41:51.583] [info]  (main) Update for version 0.1.4 is not available (latest version: 0.1.4, downgrade is disallowed).
+[2026-08-14 10:42:02.857] [info]  (main) Preparing RuneLite launch.
+[2026-08-14 10:42:02.858] [info]  (main) Checking for existing game client installation. {
+  installPath: '/home/ashton/.local/share/Jagex Launcher/games/runelite/RuneLite.AppImage'
+}
+[2026-08-14 10:42:02.859] [info]  (main) Launching RuneLite for character: T1nkiePlayz.
+[2026-08-14 10:42:02.873] [info]  (main) Launched RuneLite.

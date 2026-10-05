@@ -1,0 +1,8 @@
+[2026-08-13 20:59:15.203] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-13 20:59:15.225] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-13 20:59:15.225] [info]  (main) Application startup initiated.
+[2026-08-13 20:59:15.230] [warn]  (main) main window already destroyed
+[2026-08-13 20:59:15.471] [info]  (main) Checking for update
+[2026-08-13 20:59:15.471] [info]  (main) Checking for update from: { currentVersion: '0.1.4' }
+[2026-08-13 20:59:16.493] [info]  (main) Update for version 0.1.4 is not available (latest version: 0.1.4, downgrade is disallowed).
+[2026-08-13 20:59:42.484] [info]  (main) Launching RuneLite configuration.

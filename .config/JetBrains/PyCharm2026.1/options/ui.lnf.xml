@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="SHOW_PREVIEW_IN_SEARCH_EVERYWHERE" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>

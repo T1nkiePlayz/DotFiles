@@ -1,0 +1,23 @@
+{
+  "mode": "keyboard",
+  "button": "left",
+  "double_click": false,
+  "fixed_position": false,
+  "x": 0,
+  "y": 0,
+  "key": "space",
+  "interval_ms": 100.0,
+  "jitter_percent": 0.0,
+  "distribution": "uniform",
+  "hold_ms": 10.0,
+  "start_delay": 2.0,
+  "max_actions": 0,
+  "max_seconds": 0.0,
+  "burst_size": 0,
+  "burst_pause": 1.0,
+  "corner_stop": true,
+  "always_on_top": false,
+  "minimize_on_start": false,
+  "toggle_hotkey": "<f6>",
+  "summon_hotkey": "<f7>"
+}

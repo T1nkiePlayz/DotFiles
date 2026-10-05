@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="4" l="1784169511651" />
+    </e>
+    <e n="TemplateProjectPropertiesAction">
+      <i c="1" l="1784169524416" />
+    </e>
+    <e n="WelcomeScreen.ManageLicense">
+      <i c="1" l="1784162680591" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1784162540552" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="11" l="1784169634567" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1784163050534" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="18" l="1784169633243" />
+    </e>
+  </component>
+</application>

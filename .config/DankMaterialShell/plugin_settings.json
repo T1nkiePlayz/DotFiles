@@ -1,0 +1,171 @@
+{
+  "dankKDEConnect": {
+    "enabled": true,
+    "selectedDeviceId": "52f3ac65968844a2bf164271c2637f15"
+  },
+  "dmsconky": {
+    "particleSize": 8,
+    "particleCount": 150,
+    "particleOpacity": 1,
+    "musicPlayerPath": "/usr/local/bin/splayer",
+    "appSize": 80,
+    "widgetHeight": 522,
+    "widgetWidth": 298,
+    "showMusic": true,
+    "showRotatingAlbum": true,
+    "defaultView": "conky",
+    "batteryAcGaugeColor": "#A6E3A1",
+    "batteryGaugeColor": "#A6E3A1",
+    "clockColonColor": "#94E2D5",
+    "clockHourColor": "#F5C2E7",
+    "clockMinuteColor": "#CBA6F7",
+    "clockSecondColor": "#F38BA8",
+    "cpuGaugeColor": "#F5C2E7",
+    "dateDayColor": "#89B4FA",
+    "dateMonthColor": "#F5C2E7",
+    "dateWeekdayColor": "#F9E2AF",
+    "hardwareCpuLabelColor": "#A6E3A1",
+    "hardwareGpuLabelColor": "#89B4FA",
+    "hardwareLabelColor": "#CBA6F7",
+    "memGaugeColor": "#CBA6F7",
+    "musicArtistColor": "#F5C2E7",
+    "musicBorderColor": "#CBA6F7",
+    "musicTimeColor": "#BAC2DE",
+    "musicTitleColor": "#CDD6F4",
+    "networkDownColor": "#A6E3A1",
+    "networkGraphEndColor": "#F5C2E7",
+    "networkGraphStartColor": "#CBA6F7",
+    "networkIconColor": "#CBA6F7",
+    "networkSsidColor": "#CDD6F4",
+    "networkUpColor": "#F38BA8",
+    "ringBgColor": "#585B70",
+    "storageBarDanger": "#F38BA8",
+    "storageBarSafe": "#A6E3A1",
+    "storageBarWarn": "#F9E2AF",
+    "storageHomeColor": "#A6E3A1",
+    "storageLabelColor": "#F5C2E7",
+    "storageRootColor": "#89B4FA",
+    "tempGaugeColor": "#F38BA8",
+    "weatherCityColor": "#F5C2E7",
+    "weatherHumidityColor": "#BAC2DE",
+    "weatherWindColor": "#BAC2DE",
+    "particleStyle": "circles"
+  },
+  "emojiLauncher": {
+    "enabled": true,
+    "recentEmojis": "❤️,🐟,☒,📦,󱗝,✅,,🟧,🚦,🛑,🌸,󰙍"
+  },
+  "discordVoice": {
+    "enabled": true,
+    "accessToken": ""
+  },
+  "dankterminaltheme": {
+    "enabled": false
+  },
+  "wallpaperCarousel": {
+    "enabled": true,
+    "carouselMode": "infinite",
+    "overlayOpacity": 80,
+    "borderWidth": 3,
+    "cornerRadius": 22
+  },
+  "dankNotepadModule": {
+    "enabled": true,
+    "style": "catppuccin-mocha"
+  },
+  "dankDesktopWeather": {
+    "enabled": false
+  },
+  "gameControllerBattery": {
+    "enabled": true,
+    "hideWhenNoControllersConnected": true,
+    "settingsSessionToken": 1790412730963,
+    "displayMode": true,
+    "controllerNameMaxLength": 15,
+    "controllerCustomNames": {
+      "/org/freedesktop/UPower/devices/battery_nintendo_switch_controller_battery_0005o057Eo2009x0005": "Switch Pro"
+    }
+  },
+  "aiAssistant": {
+    "enabled": true,
+    "providers": {
+      "openai": {
+        "baseUrl": "https://api.openai.com",
+        "model": "gpt-5.2",
+        "apiKey": "",
+        "saveApiKey": false,
+        "apiKeyEnvVar": "",
+        "temperature": 0.7,
+        "maxTokens": 4096,
+        "timeout": 30
+      },
+      "anthropic": {
+        "baseUrl": "https://api.anthropic.com",
+        "model": "claude-sonnet-4-5",
+        "apiKey": "",
+        "saveApiKey": false,
+        "apiKeyEnvVar": "",
+        "temperature": 0.7,
+        "maxTokens": 4096,
+        "timeout": 30
+      },
+      "gemini": {
+        "baseUrl": "https://generativelanguage.googleapis.com",
+        "model": "gemini-3-flash-preview",
+        "apiKey": "",
+        "saveApiKey": false,
+        "apiKeyEnvVar": "",
+        "temperature": 0.7,
+        "maxTokens": 4096,
+        "timeout": 30,
+        "geminiWebSearch": false
+      },
+      "inception": {
+        "baseUrl": "https://api.inceptionlabs.ai/v1",
+        "model": "mercury-2",
+        "apiKey": "",
+        "saveApiKey": false,
+        "apiKeyEnvVar": "",
+        "temperature": 0.75,
+        "maxTokens": 8192,
+        "timeout": 30,
+        "inceptionReasoningEffort": "medium",
+        "inceptionReasoningSummary": true,
+        "inceptionReasoningSummaryWait": false
+      },
+      "ollama": {
+        "baseUrl": "http://localhost:11434",
+        "model": "",
+        "apiKey": "",
+        "saveApiKey": false,
+        "apiKeyEnvVar": "",
+        "temperature": 0.7,
+        "maxTokens": 4096,
+        "timeout": 30
+      },
+      "custom": {
+        "baseUrl": "https://api.openai.com",
+        "model": "gpt-5.2",
+        "apiKey": "",
+        "saveApiKey": false,
+        "apiKeyEnvVar": "",
+        "temperature": 0.7,
+        "maxTokens": 4096,
+        "timeout": 30
+      }
+    },
+    "provider": "openai",
+    "baseUrl": "https://api.openai.com",
+    "model": "gpt-5.2",
+    "apiKey": "",
+    "saveApiKey": false,
+    "apiKeyEnvVar": "",
+    "temperature": 0.7,
+    "maxTokens": 4096,
+    "timeout": 30,
+    "geminiWebSearch": false
+  },
+  "dankTranslate": {
+    "enabled": true
+  }
+}

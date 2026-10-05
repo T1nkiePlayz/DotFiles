@@ -1,0 +1,35 @@
+{
+  "lockfileVersion": 1,
+  "plugins": {
+    "dankKDEConnect": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankKDEConnect",
+      "commit": "e774a9756f2a50499c37a5513f28bee4ebe81d73"
+    },
+    "dankNotepadModule": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankNotepadModule",
+      "commit": "e774a9756f2a50499c37a5513f28bee4ebe81d73"
+    },
+    "dankTranslate": {
+      "repo": "https://github.com/alcxyz/DankTranslate",
+      "commit": "5f7d40b0902985c4990f3da24f373ba28a0e1895"
+    },
+    "discordVoice": {
+      "repo": "https://github.com/PandorasFox/dms-discord-widget",
+      "commit": "937e33a6c362546fa0a0e8546ff565b3f0945e0b"
+    },
+    "emojiLauncher": {
+      "repo": "https://github.com/devnullvoid/dms-emoji-launcher",
+      "commit": "8ff394e3ddfcb2fd755ed2e7b4c6f01f3e26e596"
+    },
+    "gameControllerBattery": {
+      "repo": "https://github.com/Hujair/gameControllerBattery",
+      "commit": "8ab63f4274e505cbefc2432e9a2e1dd8a1809113"
+    },
+    "wallpaperCarousel": {
+      "repo": "https://github.com/motor-dev/wallpaperCarousel",
+      "commit": "761ecd1b7f347beee9f17909f8334d987c935a1a"
+    }
+  }
+}
