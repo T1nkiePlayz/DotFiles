@@ -536,7 +536,7 @@
     },
     "wallpaper": {
         "automationEnabled": false,
-        "directory": "/home/ashton/Pictures/Wallpapers",
+        "directory": "~/Pictures/Wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
