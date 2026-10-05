@@ -1,0 +1,297 @@
+[2026-08-04 20:36:00.541] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:36:00.585] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:36:00.585] [info]  (main) Application startup initiated.
+[2026-08-04 20:36:00.949] [info]  (main) Checking for update
+[2026-08-04 20:36:00.954] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-08-04 20:36:02.771] [info]  (main) Found version 0.1.2 (url: linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage)
+[2026-08-04 20:36:02.771] [info]  (main) Launcher update available. { targetVersion: '0.1.2' }
+[2026-08-04 20:38:46.771] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:38:46.821] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:38:46.821] [info]  (main) Application startup initiated.
+[2026-08-04 20:38:47.197] [info]  (main) Checking for update
+[2026-08-04 20:38:47.204] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-08-04 20:38:48.696] [info]  (main) Found version 0.1.2 (url: linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage)
+[2026-08-04 20:38:48.696] [info]  (main) Launcher update available. { targetVersion: '0.1.2' }
+[2026-08-04 20:38:50.056] [info]  (main) Starting launcher update download.
+[2026-08-04 20:38:50.057] [info]  (main) Downloading update from linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage
+[2026-08-04 20:38:50.085] [info]  (main) File has 874 changed blocks
+[2026-08-04 20:38:50.088] [info]  (main) Full: 143,926.05 KB, To download: 17,860.58 KB (12%)
+[2026-08-04 20:38:50.588] [info]  (main) New version 0.1.2 has been downloaded to /home/ashton/.cache/jagex-launcher-beta-updater/pending/jagex-launcher-beta-linux-x86_64.AppImage
+[2026-08-04 20:38:50.589] [info]  (main) Launcher update downloaded and ready to install. { targetVersion: '0.1.2' }
+[2026-08-04 20:38:52.089] [info]  (main) Restarting launcher to finish applying update.
+[2026-08-04 20:38:52.090] [info]  (main) Install on explicit quitAndInstall
+[2026-08-04 20:38:52.090] [info]  (main) Install: isSilent: false, isForceRunAfter: true
+[2026-08-04 20:38:52.093] [error] (main) Error: Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:38:52.093] [error] (main) Launcher updater error. Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:38:58.556] [info]  (main) Starting launcher update download.
+[2026-08-04 20:38:58.556] [info]  (main) Downloading update from linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage
+[2026-08-04 20:38:58.556] [info]  (main) Launcher update downloaded and ready to install. { targetVersion: '0.1.2' }
+[2026-08-04 20:39:00.057] [info]  (main) Restarting launcher to finish applying update.
+[2026-08-04 20:39:00.057] [info]  (main) Install on explicit quitAndInstall
+[2026-08-04 20:39:00.057] [info]  (main) Install: isSilent: false, isForceRunAfter: true
+[2026-08-04 20:39:00.057] [error] (main) Error: Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:39:00.058] [error] (main) Launcher updater error. Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-19dLGk/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:39:04.184] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:39:04.226] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:39:04.226] [info]  (main) Application startup initiated.
+[2026-08-04 20:39:04.583] [info]  (main) Checking for update
+[2026-08-04 20:39:04.589] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-08-04 20:39:05.939] [info]  (main) Found version 0.1.2 (url: linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage)
+[2026-08-04 20:39:05.940] [info]  (main) Launcher update available. { targetVersion: '0.1.2' }
+[2026-08-04 20:39:07.177] [info]  (main) Starting launcher update download.
+[2026-08-04 20:39:07.178] [info]  (main) Downloading update from linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage
+[2026-08-04 20:39:07.487] [info]  (main) Update has already been downloaded to /home/ashton/.cache/jagex-launcher-beta-updater/pending/jagex-launcher-beta-linux-x86_64.AppImage).
+[2026-08-04 20:39:07.487] [info]  (main) Launcher update downloaded and ready to install. { targetVersion: '0.1.2' }
+[2026-08-04 20:39:08.987] [info]  (main) Restarting launcher to finish applying update.
+[2026-08-04 20:39:08.987] [info]  (main) Install on explicit quitAndInstall
+[2026-08-04 20:39:08.988] [info]  (main) Install: isSilent: false, isForceRunAfter: true
+[2026-08-04 20:39:08.990] [error] (main) Error: Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:39:08.990] [error] (main) Launcher updater error. Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-KABVGV/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:41:41.381] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:41:41.424] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:41:41.424] [info]  (main) Application startup initiated.
+[2026-08-04 20:41:41.787] [info]  (main) Checking for update
+[2026-08-04 20:41:41.793] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-08-04 20:41:43.093] [info]  (main) Found version 0.1.2 (url: linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage)
+[2026-08-04 20:41:43.093] [info]  (main) Launcher update available. { targetVersion: '0.1.2' }
+[2026-08-04 20:41:44.862] [info]  (main) Starting launcher update download.
+[2026-08-04 20:41:44.862] [info]  (main) Downloading update from linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage
+[2026-08-04 20:41:45.190] [info]  (main) Update has already been downloaded to /home/ashton/.cache/jagex-launcher-beta-updater/pending/jagex-launcher-beta-linux-x86_64.AppImage).
+[2026-08-04 20:41:45.191] [info]  (main) Launcher update downloaded and ready to install. { targetVersion: '0.1.2' }
+[2026-08-04 20:41:46.692] [info]  (main) Restarting launcher to finish applying update.
+[2026-08-04 20:41:46.692] [info]  (main) Install on explicit quitAndInstall
+[2026-08-04 20:41:46.692] [info]  (main) Install: isSilent: false, isForceRunAfter: true
+[2026-08-04 20:41:46.695] [error] (main) Error: Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:41:46.695] [error] (main) Launcher updater error. Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-BayHcr/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:41:57.168] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:41:57.210] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:41:57.211] [info]  (main) Application startup initiated.
+[2026-08-04 20:41:57.669] [info]  (main) Checking for update
+[2026-08-04 20:41:57.675] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-08-04 20:41:59.035] [info]  (main) Found version 0.1.2 (url: linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage)
+[2026-08-04 20:41:59.036] [info]  (main) Launcher update available. { targetVersion: '0.1.2' }
+[2026-08-04 20:42:04.988] [info]  (main) Starting launcher update download.
+[2026-08-04 20:42:04.989] [info]  (main) Downloading update from linux/x64/releases/0.1.2/jagex-launcher-beta-linux-x86_64.AppImage
+[2026-08-04 20:42:05.325] [info]  (main) Update has already been downloaded to /home/ashton/.cache/jagex-launcher-beta-updater/pending/jagex-launcher-beta-linux-x86_64.AppImage).
+[2026-08-04 20:42:05.325] [info]  (main) Launcher update downloaded and ready to install. { targetVersion: '0.1.2' }
+[2026-08-04 20:42:06.828] [info]  (main) Restarting launcher to finish applying update.
+[2026-08-04 20:42:06.828] [info]  (main) Install on explicit quitAndInstall
+[2026-08-04 20:42:06.828] [info]  (main) Install: isSilent: false, isForceRunAfter: true
+[2026-08-04 20:42:06.831] [error] (main) Error: Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:42:06.831] [error] (main) Launcher updater error. Error: EACCES: permission denied, unlink '/opt/jagex-launcher/jagex-launcher.AppImage'
+    at unlinkSync (node:fs:1940:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:81:29)
+    at AppImageUpdater.install (/tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:58:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:16:34)
+    at Timeout._onTimeout (file:///tmp/.mount_jagex-cd91Rl/resources/app.asar/node_modules/@app/main/dist/index.js:988:70)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+[2026-08-04 20:44:26.940] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:44:26.984] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:44:26.985] [info]  (main) Application startup initiated.
+[2026-08-04 20:44:27.345] [info]  (main) Checking for update
+[2026-08-04 20:44:27.350] [info]  (main) Checking for update from: { currentVersion: '0.1.1' }
+[2026-08-04 20:44:46.320] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:44:46.364] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:44:46.365] [info]  (main) Application startup initiated.
+[2026-08-04 20:44:46.391] [warn]  (main) main window already destroyed
+[2026-08-04 20:44:46.750] [info]  (main) Checking for update
+[2026-08-04 20:44:46.755] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:44:48.122] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:44:49.418] [info]  (main) Checking for update
+[2026-08-04 20:44:49.418] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:44:50.349] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:44:55.085] [info]  (main) Checking for update
+[2026-08-04 20:44:55.085] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:44:56.011] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:45:09.689] [info]  (main) Checking for update
+[2026-08-04 20:45:09.689] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:45:10.622] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:45:55.196] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:45:55.244] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:45:55.245] [info]  (main) Application startup initiated.
+[2026-08-04 20:45:55.271] [error] (main) Error during login flow with code: JAGEX_ERROR_A1001
+[2026-08-04 20:45:55.274] [info]  (main) Checking for update
+[2026-08-04 20:45:55.274] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:45:56.248] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:02.217] [info]  (main) Checking for update
+[2026-08-04 20:46:02.218] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:03.146] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:04.564] [info]  (main) Checking for update
+[2026-08-04 20:46:04.564] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:05.535] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:21.319] [info]  (main) Checking for update
+[2026-08-04 20:46:21.320] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:22.250] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:22.611] [info]  (main) Checking for update
+[2026-08-04 20:46:22.611] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:23.547] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:38.068] [info]  (main) Checking for update
+[2026-08-04 20:46:38.068] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:38.998] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:39.302] [info]  (main) Checking for update
+[2026-08-04 20:46:39.302] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:40.239] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:41.578] [info]  (main) Checking for update
+[2026-08-04 20:46:41.578] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:42.508] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:43.828] [info]  (main) Checking for update
+[2026-08-04 20:46:43.829] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:44.756] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:46.544] [info]  (main) Checking for update
+[2026-08-04 20:46:46.544] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:47.471] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:46:57.523] [info]  (main) Checking for update
+[2026-08-04 20:46:57.523] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:46:58.452] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:47:09.065] [info]  (main) Checking for update
+[2026-08-04 20:47:09.065] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:47:09.998] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:47:51.823] [info]  (main) Preparing RuneLite launch.
+[2026-08-04 20:47:51.824] [info]  (main) Checking for existing game client installation. {
+  installPath: '/home/ashton/.local/share/Jagex Launcher/games/runelite/RuneLite.AppImage'
+}
+[2026-08-04 20:47:51.824] [info]  (main) Refreshing RuneLite installation.
+[2026-08-04 20:47:51.825] [info]  (main) Downloading RuneLite... {
+  downloadUrl: 'https://github.com/runelite/launcher/releases/latest/download/RuneLite.AppImage',
+  destination: '/tmp/rs_hub/downloads/runelite/RuneLite.AppImage'
+}
+[2026-08-04 20:47:54.269] [info]  (main) Downloaded RuneLite.
+[2026-08-04 20:47:54.269] [info]  (main) Installing RuneLite...
+[2026-08-04 20:47:54.270] [info]  (main) Installing Linux executable into managed install location. {
+  downloadPath: '/tmp/rs_hub/downloads/runelite/RuneLite.AppImage',
+  installPath: '/home/ashton/.local/share/Jagex Launcher/games/runelite/RuneLite.AppImage'
+}
+[2026-08-04 20:47:54.305] [info]  (main) Marking executable as runnable.
+[2026-08-04 20:47:54.305] [info]  (main) Installed RuneLite.
+[2026-08-04 20:47:54.312] [info]  (main) Launching RuneLite for character: ashton201134.
+[2026-08-04 20:47:54.320] [info]  (main) Launched RuneLite.
+[2026-08-04 20:48:00.449] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 20:48:00.491] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 20:48:00.492] [info]  (main) Application startup initiated.
+[2026-08-04 20:48:00.514] [warn]  (main) main window already destroyed
+[2026-08-04 20:48:00.865] [info]  (main) Checking for update
+[2026-08-04 20:48:00.870] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:48:02.409] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:48:07.610] [info]  (main) Preparing RuneLite launch.
+[2026-08-04 20:48:07.611] [info]  (main) Checking for existing game client installation. {
+  installPath: '/home/ashton/.local/share/Jagex Launcher/games/runelite/RuneLite.AppImage'
+}
+[2026-08-04 20:48:07.612] [info]  (main) Launching RuneLite for character: ashton201134.
+[2026-08-04 20:48:07.619] [info]  (main) Launched RuneLite.
+[2026-08-04 20:48:09.851] [info]  (main) Checking for update
+[2026-08-04 20:48:09.852] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:48:10.779] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:48:11.035] [info]  (main) Checking for update
+[2026-08-04 20:48:11.035] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:48:11.970] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 20:48:16.915] [info]  (main) Checking for update
+[2026-08-04 20:48:16.915] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 20:48:17.847] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:02:14.652] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 21:02:14.694] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 21:02:14.695] [info]  (main) Application startup initiated.
+[2026-08-04 21:02:14.719] [warn]  (main) main window already destroyed
+[2026-08-04 21:02:15.083] [info]  (main) Checking for update
+[2026-08-04 21:02:15.088] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:02:16.540] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:05:08.107] [info]  (main) Checking for update
+[2026-08-04 21:05:08.107] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:05:09.034] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:05:09.526] [info]  (main) Preparing RuneLite launch.
+[2026-08-04 21:05:09.526] [info]  (main) Checking for existing game client installation. {
+  installPath: '/home/ashton/.local/share/Jagex Launcher/games/runelite/RuneLite.AppImage'
+}
+[2026-08-04 21:05:09.527] [info]  (main) Launching RuneLite for character: ashton201134.
+[2026-08-04 21:05:09.535] [info]  (main) Launched RuneLite.
+[2026-08-04 21:05:10.178] [info]  (main) Checking for update
+[2026-08-04 21:05:10.178] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:05:11.114] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:05:11.401] [info]  (main) Checking for update
+[2026-08-04 21:05:11.401] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:05:12.329] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:09:50.417] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-08-04 21:09:50.459] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-08-04 21:09:50.459] [info]  (main) Application startup initiated.
+[2026-08-04 21:09:50.485] [warn]  (main) main window already destroyed
+[2026-08-04 21:09:50.842] [info]  (main) Checking for update
+[2026-08-04 21:09:50.848] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:09:52.539] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:10:00.858] [info]  (main) Preparing RuneLite launch.
+[2026-08-04 21:10:00.859] [info]  (main) Checking for existing game client installation. {
+  installPath: '/home/ashton/.local/share/Jagex Launcher/games/runelite/RuneLite.AppImage'
+}
+[2026-08-04 21:10:00.860] [info]  (main) Launching RuneLite for character: T1nkiePlayz.
+[2026-08-04 21:10:00.869] [info]  (main) Launched RuneLite.
+[2026-08-04 21:10:01.828] [info]  (main) Checking for update
+[2026-08-04 21:10:01.828] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:10:02.775] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:10:03.291] [info]  (main) Checking for update
+[2026-08-04 21:10:03.292] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:10:04.266] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).
+[2026-08-04 21:12:42.063] [info]  (main) Checking for update
+[2026-08-04 21:12:42.063] [info]  (main) Checking for update from: { currentVersion: '0.1.2' }
+[2026-08-04 21:12:43.037] [info]  (main) Update for version 0.1.2 is not available (latest version: 0.1.2, downgrade is disallowed).

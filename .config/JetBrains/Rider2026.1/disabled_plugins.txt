@@ -1,0 +1,6 @@
+String Manipulation
+com.intellij.resharper.HeapAllocationsViewer
+com.jetbrains.rider.android
+com.nasller.CodeGlancePro
+izhangzhihao.rainbow.brackets.lite
+mobi.hsz.idea.gitignore

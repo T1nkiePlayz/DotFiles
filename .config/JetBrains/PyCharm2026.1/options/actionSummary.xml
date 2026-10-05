@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1790504088068" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1790504088717" />
+    </e>
+    <e n="GotoNextError">
+      <i c="1" l="1790504060968" />
+    </e>
+    <e n="NewElement">
+      <i c="1" l="1790504051025" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1790504052363" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1790504072276" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1790504077364" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1790503973521" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1790504025882" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1790504061871" />
+    </e>
+  </component>
+</application>

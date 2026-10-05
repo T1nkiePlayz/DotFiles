@@ -1,0 +1,32 @@
+[2026-07-19 17:32:25.299] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-07-19 17:32:25.341] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-07-19 17:32:25.341] [info]  (main) Application startup initiated.
+[2026-07-19 17:32:25.686] [info]  (main) Checking for update
+[2026-07-19 17:32:25.691] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:32:25.805] [info]  (main) Generated new staging user ID: 4e72692f-a932-5d70-a09e-b3f87b8f24bf
+[2026-07-19 17:32:25.948] [info]  (main) Copying icon to: /home/ashton/.local/share/icons/hicolor/512x512/apps/jagex-launcher.png
+[2026-07-19 17:32:27.449] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).
+[2026-07-19 17:32:49.835] [info]  (main) Checking for update
+[2026-07-19 17:32:49.836] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:32:50.766] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).
+[2026-07-19 17:32:50.903] [info]  (main) Checking for update
+[2026-07-19 17:32:50.904] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:32:51.841] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).
+[2026-07-19 17:33:30.747] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-07-19 17:33:30.795] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-07-19 17:33:30.795] [info]  (main) Application startup initiated.
+[2026-07-19 17:33:30.836] [info]  (main) Checking for update
+[2026-07-19 17:33:30.837] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:33:31.806] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).
+[2026-07-19 17:33:38.321] [info]  (main) Checking for update
+[2026-07-19 17:33:38.322] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:33:39.254] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).
+[2026-07-19 17:33:46.272] [info]  (main) Checking for update
+[2026-07-19 17:33:46.272] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:33:47.201] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).
+[2026-07-19 17:33:50.768] [info]  (main) Checking for update
+[2026-07-19 17:33:50.769] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:33:51.702] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).
+[2026-07-19 17:33:58.873] [info]  (main) Checking for update
+[2026-07-19 17:33:58.873] [info]  (main) Checking for update from: { currentVersion: '0.0.27' }
+[2026-07-19 17:33:59.806] [info]  (main) Update for version 0.0.27 is not available (latest version: 0.0.27, downgrade is disallowed).

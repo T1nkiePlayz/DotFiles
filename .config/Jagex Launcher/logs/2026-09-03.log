@@ -1,0 +1,14 @@
+[2026-09-03 20:34:02.885] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-09-03 20:34:02.917] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-09-03 20:34:02.918] [info]  (main) Application startup initiated.
+[2026-09-03 20:34:02.928] [warn]  (main) main window already destroyed
+[2026-09-03 20:34:03.314] [info]  (main) Checking for update
+[2026-09-03 20:34:03.314] [info]  (main) Checking for update from: { currentVersion: '0.1.6' }
+[2026-09-03 20:34:05.234] [info]  (main) Update for version 0.1.6 is not available (latest version: 0.1.6, downgrade is disallowed).
+[2026-09-03 20:35:16.372] [info]  (main) Platform and architecture detected: linux (x64)
+[2026-09-03 20:35:16.401] [info]  (main) Detected user timezone: Australia/Perth (GMT+08:00)
+[2026-09-03 20:35:16.402] [info]  (main) Application startup initiated.
+[2026-09-03 20:35:16.412] [warn]  (main) main window already destroyed
+[2026-09-03 20:35:16.791] [info]  (main) Checking for update
+[2026-09-03 20:35:16.791] [info]  (main) Checking for update from: { currentVersion: '0.1.6' }
+[2026-09-03 20:35:17.934] [info]  (main) Update for version 0.1.6 is not available (latest version: 0.1.6, downgrade is disallowed).

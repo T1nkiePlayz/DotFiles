@@ -1,0 +1,60 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CopyrightManager" default="Aetheria">
+        <copyright>
+          <option name="myName" value="Aetheria" />
+        </copyright>
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "com.github.copilot.settings.general.GeneralConfigurable"
+  }
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1784162407662</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1784162407662</updated>
+          <workItem from="1784162408728" duration="110000" />
+        </task>
+        <servers />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="1920" y="147" width="1424" height="700" key="SettingsEditor" timestamp="1784169880367">
+          <screen x="1920" y="0" width="1920" height="1080" />
+        </state>
+        <state x="1920" y="147" width="1424" height="700" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080" timestamp="1784169880367" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>Aetheria</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
